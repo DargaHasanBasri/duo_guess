@@ -1,0 +1,43 @@
+name: duo_guess
+description: "A number guessing game for two."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.0-290.4.beta
+
+
+dependencies:
+  # Core UI & icons
+  cupertino_icons: ^1.0.8
+
+  # Localization
+  easy_localization: ^3.0.7+1
+
+  # Flutter SDK (framework)
+  flutter:
+    sdk: flutter
+
+  # Code generation module
+  gen:
+    path: module/gen
+
+  # Utilities
+  image_picker: ^1.1.2
+  logger: ^2.6.0
+
+dev_dependencies:
+  # Testing
+  flutter_test:
+    sdk: flutter
+
+  # Linter & static analysis
+  very_good_analysis: ^9.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/langs/
