@@ -24,6 +24,9 @@ dependencies:
   gen:
     path: module/gen
 
+  # Router
+  go_router: ^16.0.0
+
   # Utilities
   image_picker: ^1.1.2
   logger: ^2.6.0
@@ -32,6 +35,14 @@ dev_dependencies:
   # Testing
   flutter_test:
     sdk: flutter
+
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/ic_duo_guess_icon.png"
+  min_sdk_android: 21
 
   # Linter & static analysis
   very_good_analysis: ^9.0.0
