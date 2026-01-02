@@ -14,45 +14,60 @@ import 'package:flutter/material.dart';
 class ColorName {
   ColorName._();
 
-  /// Color: #FBEAEA
-  static const Color amour = Color(0xFFFBEAEA);
-
-  /// Color: #235AFF
-  static const Color azul = Color(0xFF235AFF);
+  /// Color: #00E096
+  static const Color aquaGreen = Color(0xFF00E096);
 
   /// Color: #000000
   static const Color black = Color(0xFF000000);
 
-  /// Color: #F5D593
-  static const Color chalky = Color(0xFFF5D593);
+  /// Color: #FACC15
+  static const Color brightGold = Color(0xFFFACC15);
 
-  /// Color: #9D9EA6
-  static const Color coolGrey = Color(0xFF9D9EA6);
+  /// Color: #374151
+  static const Color brightGrey = Color(0xFF374151);
 
-  /// Color: #939393
-  static const Color grey = Color(0xFF939393);
+  /// Color: #94A3B8
+  static const Color cadetGrey = Color(0xFF94A3B8);
 
-  /// Color: #CDCFD0
-  static const Color greyGoose = Color(0xFFCDCFD0);
+  /// Color: #4B5563
+  static const Color davyGrey = Color(0xFF4B5563);
 
-  /// Color: #F3F5FC
-  static const Color magnolia = Color(0xFFF3F5FC);
+  /// Color: #FB923C
+  static const Color deepSaffron = Color(0xFFFB923C);
 
-  /// Color: #CCCCCC
-  static const Color pastelGrey = Color(0xFFCCCCCC);
+  /// Color: #101022
+  static const Color ebony = Color(0xFF101022);
+
+  /// Color: #D1D5DB
+  static const Color iron = Color(0xFFD1D5DB);
+
+  /// Color: #C084FC
+  static const Color lightPurple = Color(0xFFC084FC);
+
+  /// Color: #1A1A2E
+  static const Color mirage = Color(0xFF1A1A2E);
+
+  /// Color: #F97316
+  static const Color pumpkinOrange = Color(0xFFF97316);
+
+  /// Color: #A855F7
+  static const Color purpleDaffodil = Color(0xFFA855F7);
 
   /// Color: #FF3B30
   static const Color redOrange = Color(0xFFFF3B30);
 
-  /// Color: #9D9EA6
-  static const Color startDust = Color(0xFF9D9EA6);
+  /// Color: #9CA3AF
+  static const Color santaGrey = Color(0xFF9CA3AF);
 
-  /// Color: #636366
-  static const Color stormDust = Color(0xFF636366);
+  /// Color: #4ADE80
+  static const Color stoplightGoGreen = Color(0xFF4ADE80);
+
+  /// Color: #0D0DF2
+  static const Color strongBlue = Color(0xFF0D0DF2);
+
+  /// Color: #BFDBFE
+  static const Color tropicalBlue = Color(0xFFBFDBFE);
 
   /// Color: #FFFFFF
   static const Color white = Color(0xFFFFFFFF);
-
-  /// Color: #F5F5F5
-  static const Color whiteSmoke = Color(0xFFF5F5F5);
 }

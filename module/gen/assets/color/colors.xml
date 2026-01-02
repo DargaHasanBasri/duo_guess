@@ -2,16 +2,21 @@
 <resources>
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
-    <color name="azul">#235AFF</color>
-    <color name="whiteSmoke">#F5F5F5</color>
-    <color name="grey">#939393</color>
-    <color name="coolGrey">#9D9EA6</color>
-    <color name="pastelGrey">#CCCCCC</color>
-    <color name="startDust">#9D9EA6</color>
-    <color name="stormDust">#636366</color>
+    <color name="ebony">#101022</color>
+    <color name="cadetGrey">#94A3B8</color>
+    <color name="mirage">#1A1A2E</color>
+    <color name="strongBlue">#0D0DF2</color>
+    <color name="stoplightGoGreen">#4ADE80</color>
+    <color name="tropicalBlue">#BFDBFE</color>
+    <color name="lightPurple">#C084FC</color>
+    <color name="purpleDaffodil">#A855F7</color>
+    <color name="pumpkinOrange">#F97316</color>
+    <color name="deepSaffron">#FB923C</color>
+    <color name="brightGold">#FACC15</color>
+    <color name="davyGrey">#4B5563</color>
+    <color name="santaGrey">#9CA3AF</color>
+    <color name="brightGrey">#374151</color>
+    <color name="iron">#D1D5DB</color>
     <color name="redOrange">#FF3B30</color>
-    <color name="chalky">#F5D593</color>
-    <color name="magnolia">#F3F5FC</color>
-    <color name="greyGoose">#CDCFD0</color>
-    <color name="amour">#FBEAEA</color>
+    <color name="aquaGreen">#00E096</color>
 </resources>
