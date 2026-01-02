@@ -14,12 +14,82 @@ import 'package:flutter/widgets.dart';
 class $AssetsIconsGen {
   const $AssetsIconsGen();
 
+  /// File path: assets/icons/ic_close.png
+  AssetGenImage get icClose => const AssetGenImage('assets/icons/ic_close.png');
+
+  /// File path: assets/icons/ic_cup.png
+  AssetGenImage get icCup => const AssetGenImage('assets/icons/ic_cup.png');
+
+  /// File path: assets/icons/ic_exercise.png
+  AssetGenImage get icExercise =>
+      const AssetGenImage('assets/icons/ic_exercise.png');
+
+  /// File path: assets/icons/ic_game_won.png
+  AssetGenImage get icGameWon =>
+      const AssetGenImage('assets/icons/ic_game_won.png');
+
+  /// File path: assets/icons/ic_hidden.png
+  AssetGenImage get icHidden =>
+      const AssetGenImage('assets/icons/ic_hidden.png');
+
+  /// File path: assets/icons/ic_home.png
+  AssetGenImage get icHome => const AssetGenImage('assets/icons/ic_home.png');
+
+  /// File path: assets/icons/ic_not_hidden.png
+  AssetGenImage get icNotHidden =>
+      const AssetGenImage('assets/icons/ic_not_hidden.png');
+
+  /// File path: assets/icons/ic_play.png
+  AssetGenImage get icPlay => const AssetGenImage('assets/icons/ic_play.png');
+
+  /// File path: assets/icons/ic_play_with_friends.png
+  AssetGenImage get icPlayWithFriends =>
+      const AssetGenImage('assets/icons/ic_play_with_friends.png');
+
   /// File path: assets/icons/ic_profile.png
   AssetGenImage get icProfile =>
       const AssetGenImage('assets/icons/ic_profile.png');
 
+  /// File path: assets/icons/ic_purchase.png
+  AssetGenImage get icPurchase =>
+      const AssetGenImage('assets/icons/ic_purchase.png');
+
+  /// File path: assets/icons/ic_send.png
+  AssetGenImage get icSend => const AssetGenImage('assets/icons/ic_send.png');
+
+  /// File path: assets/icons/ic_settings.png
+  AssetGenImage get icSettings =>
+      const AssetGenImage('assets/icons/ic_settings.png');
+
+  /// File path: assets/icons/ic_share.png
+  AssetGenImage get icShare => const AssetGenImage('assets/icons/ic_share.png');
+
+  /// File path: assets/icons/ic_statistics.png
+  AssetGenImage get icStatistics =>
+      const AssetGenImage('assets/icons/ic_statistics.png');
+
+  /// File path: assets/icons/ic_timer.png
+  AssetGenImage get icTimer => const AssetGenImage('assets/icons/ic_timer.png');
+
   /// List of all assets
-  List<AssetGenImage> get values => [icProfile];
+  List<AssetGenImage> get values => [
+    icClose,
+    icCup,
+    icExercise,
+    icGameWon,
+    icHidden,
+    icHome,
+    icNotHidden,
+    icPlay,
+    icPlayWithFriends,
+    icProfile,
+    icPurchase,
+    icSend,
+    icSettings,
+    icShare,
+    icStatistics,
+    icTimer,
+  ];
 }
 
 class Assets {

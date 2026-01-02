@@ -11,7 +11,8 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    final router = AppRoutes.returnRouter();
+    return MaterialApp.router(
       debugShowCheckedModeBanner: false,
       title: AppConstants.appName,
       localizationsDelegates: context.localizationDelegates,
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
       locale: context.locale,
       theme: CustomLightTheme().themeData,
       darkTheme: CustomDarkTheme().themeData,
-      home: const Column(),
+      routerConfig: router,
     );
   }
 }
