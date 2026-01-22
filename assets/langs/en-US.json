@@ -1,3 +1,17 @@
 {
-  "appTitle": "Duo Guess"
+  "appTitle": "Duo Guess",
+  "home_screen": {
+    "welcomeMsg": "WELCOME,",
+    "totalScore": "Total Score",
+    "matchWon": "Match Won",
+    "gameDescription": "Choose your opponent and be the first to find the 4-digit secret number!",
+    "playFast": "Hızlı Oyna",
+    "quickPlayButtonMsg": "Find a random opponent.",
+    "withFriend": "With friend",
+    "invitationCode": "Generate invitation code",
+    "exercise": "Exercise",
+    "improveYourself": "Improve yourself",
+    "dailyTask": "Daily Quest",
+    "dailyTaskMsg": "Win 3 matches, earn 500 points!"
+  }
 }

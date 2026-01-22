@@ -47,7 +47,7 @@ final class CustomDarkTheme implements CustomTheme {
     ),
     displayMedium: TextStyle(
       fontSize: 24,
-      fontWeight: FontWeight.w600,
+      fontWeight: FontWeight.w500,
       color: ColorName.white,
     ),
     displaySmall: TextStyle(
@@ -81,7 +81,7 @@ final class CustomDarkTheme implements CustomTheme {
     ),
     labelMedium: TextStyle(
       fontSize: 14,
-      fontWeight: FontWeight.w600,
+      fontWeight: FontWeight.w500,
       color: ColorName.white,
     ),
     labelSmall: TextStyle(
@@ -98,12 +98,12 @@ final class CustomDarkTheme implements CustomTheme {
     ),
     titleMedium: TextStyle(
       fontSize: 12,
-      fontWeight: FontWeight.w600,
+      fontWeight: FontWeight.w500,
       color: ColorName.white,
     ),
     titleSmall: TextStyle(
       fontSize: 12,
-      fontWeight: FontWeight.w500,
+      fontWeight: FontWeight.w400,
       color: ColorName.white,
     ),
   );

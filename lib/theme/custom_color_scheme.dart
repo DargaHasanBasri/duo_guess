@@ -54,7 +54,7 @@ final class CustomColorScheme {
 
   static const darkColorScheme = ColorScheme(
     brightness: Brightness.dark,
-    primary: Color(0xff111827),
+    primary: ColorName.ebony,
     surfaceTint: Color(0XFF1F2937),
     onPrimary: Color(0xff111827),
     primaryContainer: Color(0xff374151),

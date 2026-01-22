@@ -1,3 +1,17 @@
 {
-  "appTitle": "Duo Guess"
+  "appTitle": "Duo Guess",
+  "home_screen": {
+    "welcomeMsg": "HOŞ GELDİN,",
+    "totalScore": "Toplam Puan",
+    "matchWon": "Kazanılan Maç",
+    "gameDescription": "Rakibini seç ve 4 basamaklı gizli sayıyı ilk sen bul!",
+    "playFast": "Hızlı Oyna",
+    "quickPlayButtonMsg": "Rastgele bir rakip bul",
+    "withFriend": "Arkadaşınla",
+    "invitationCode": "Davet kodu oluştur",
+    "exercise": "Alıştırma",
+    "improveYourself": "Kendini geliştir",
+    "dailyTask": "Günlük Görev",
+    "dailyTaskMsg": "3 maç kazan, 500 puan kap!"
+  }
 }
