@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
       localizationsDelegates: context.localizationDelegates,
       supportedLocales: context.supportedLocales,
       locale: context.locale,
+      themeMode: ThemeMode.dark,
       theme: CustomLightTheme().themeData,
       darkTheme: CustomDarkTheme().themeData,
       routerConfig: router,

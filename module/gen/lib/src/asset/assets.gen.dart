@@ -71,6 +71,9 @@ class $AssetsIconsGen {
   /// File path: assets/icons/ic_timer.png
   AssetGenImage get icTimer => const AssetGenImage('assets/icons/ic_timer.png');
 
+  /// File path: assets/icons/senator.jpeg
+  AssetGenImage get senator => const AssetGenImage('assets/icons/senator.jpeg');
+
   /// List of all assets
   List<AssetGenImage> get values => [
     icClose,
@@ -89,6 +92,7 @@ class $AssetsIconsGen {
     icShare,
     icStatistics,
     icTimer,
+    senator,
   ];
 }
 
